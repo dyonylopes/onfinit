@@ -1,0 +1,106 @@
+D:\Projeto PI\Onfinit\Onfinit\bin\Onfinit.dll.config
+D:\Projeto PI\Onfinit\Onfinit\bin\Onfinit.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\Onfinit.pdb
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\csc.exe
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\csc.exe.config
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\csc.rsp
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\csi.exe
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\csi.exe.config
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\csi.rsp
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\System.Buffers.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\System.Collections.Immutable.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\System.Memory.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\System.Numerics.Vectors.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\vbc.exe
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\vbc.exe.config
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\vbc.rsp
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\VBCSCompiler.exe
+D:\Projeto PI\Onfinit\Onfinit\bin\roslyn\VBCSCompiler.exe.config
+D:\Projeto PI\Onfinit\Onfinit\bin\BouncyCastle.Crypto.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\Google.Protobuf.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\K4os.Compression.LZ4.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\K4os.Compression.LZ4.Streams.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\K4os.Hash.xxHash.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\MySql.Data.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\Renci.SshNet.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\System.Buffers.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\System.Memory.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\Ubiety.Dns.Core.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\Zstandard.Net.dll
+D:\Projeto PI\Onfinit\Onfinit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projeto PI\Onfinit\Onfinit\bin\MySql.Data.xml
+D:\Projeto PI\Onfinit\Onfinit\obj\Debug\Onfinit.csproj.AssemblyReference.cache
+D:\Projeto PI\Onfinit\Onfinit\obj\Debug\Onfinit.csproj.CoreCompileInputs.cache
+D:\Projeto PI\Onfinit\Onfinit\obj\Debug\Onfinit.csproj.CopyComplete
+D:\Projeto PI\Onfinit\Onfinit\obj\Debug\Onfinit.dll
+D:\Projeto PI\Onfinit\Onfinit\obj\Debug\Onfinit.pdb
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\Onfinit.dll.config
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\Onfinit.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\Onfinit.pdb
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\csc.exe
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\csc.exe.config
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\csc.rsp
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\csi.exe
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\csi.exe.config
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\csi.rsp
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\System.Buffers.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\System.Collections.Immutable.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\System.Memory.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\System.Numerics.Vectors.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\vbc.exe
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\vbc.exe.config
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\vbc.rsp
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\VBCSCompiler.exe
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\roslyn\VBCSCompiler.exe.config
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\BouncyCastle.Crypto.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\Google.Protobuf.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\K4os.Compression.LZ4.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\K4os.Compression.LZ4.Streams.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\K4os.Hash.xxHash.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\MySql.Data.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\Renci.SshNet.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\System.Buffers.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\System.Memory.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\Ubiety.Dns.Core.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\Zstandard.Net.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\bin\MySql.Data.xml
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\obj\Debug\Onfinit.csproj.AssemblyReference.cache
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\obj\Debug\Onfinit.csproj.CoreCompileInputs.cache
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\obj\Debug\Onfinit.csproj.CopyComplete
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\obj\Debug\Onfinit.dll
+D:\Projeto PI\PI - FINAL\Onfinit\Onfinit\obj\Debug\Onfinit.pdb

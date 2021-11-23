@@ -1,0 +1,264 @@
+﻿.inicio {
+    margin: 0px;
+    padding: 0px;
+    /*background-color: #f0f2f5;*/
+    background-color: #F0F8FF;
+}
+
+
+/*navbar*/
+
+.center {
+    max-width: 1100px;
+    margin: auto;
+    padding: 0;
+}
+
+.cabecalho {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    font-family: 'Kaushan Script', cursive;
+    padding: 5px;
+    text-align: center;
+    color: rgb(36, 36, 36);
+    background-color: #fff;
+}
+
+
+/*............................................................................................................*/
+
+h1,
+h2,
+h3,
+p,
+ul,
+li {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/*linha entre esqueceu a senha e criar nova conta*/
+
+hr {
+    border: 0;
+    border-top: 1px solid #dadde1;
+    margin-bottom: 20px;
+}
+
+.meio {
+    display: flex;
+    justify-content: center;
+}
+
+.main--container {
+    border: 0px solid rgb( 0, 0, 0);
+    max-width: 1000px;
+    height: calc(100vh);
+    padding: /*topo*/
+    0px /*lateral*/
+    0px;
+    display: flex;
+    align-items: center;
+}
+
+.main--description {
+    border: 0px solid rgb( 0, 0, 0);
+    /*Fica em volta de toda a Onfinit e Pré-apresentação*/
+}
+
+    .main--description h1 {
+        /*font-family: 'Mulish', sans-serif;*/
+        text-align: center;
+        font-family: 'Kaushan Script', cursive;
+        background-image: linear-gradient(to bottom, rgb(247, 0, 152), rgb(247, 141, 159), rgb(78, 78, 255));
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        color: #363636;
+        font-size: 60px;
+    }
+
+    .main--description p {
+        text-align: center;
+        font-size: 28px;
+        padding-right: 30px;
+    }
+
+.main--login {
+    border: 0px solid rgb( 0, 0, 0);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+/* CARD = Onde fica todo o login dentro */
+
+.main--card {
+    background-color: #fff;
+    border-radius: 7px;
+    box-shadow: 0px 5px 10px #ccc;
+    width: 370px;
+    padding: 15px;
+    text-align: center;
+}
+
+    .main--card input {
+        width: 90%;
+        margin-bottom: 15px;
+        font-size: 16px;
+        padding: 15px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        outline: none;
+    }
+
+
+    /*Botão Entrar*/
+
+    .main--card button {
+        width: 100%;
+        margin-bottom: 15px;
+        border: none;
+        border-radius: 5px;
+        padding: 17px;
+        background-color: #1877f2;
+        color: #fff;
+        /*Cor da Letra*/
+        font-size: 20px;
+        /*Tamanho da escrita do 'Entrar'*/
+        font-weight: bold;
+        /*Escrito mais grossa*/
+        transition: .3s;
+    }
+
+
+        /*Para dar uma escurecida no botão quando passar o mouse*/
+
+        .main--card button:hover {
+            background-color: #196edd;
+        }
+
+
+/*Esqueceu a senha?*/
+
+.main--link {
+    margin-bottom: 20px;
+}
+
+    .main--link a {
+        text-decoration: none;
+        font-size: 14px;
+        color: #6277f2;
+    }
+
+        .main--link a:hover {
+            text-decoration: underline;
+        }
+
+
+/*Botão Criar nova conta*/
+
+.main--btn {
+    margin-bottom: 10px;
+    /*espaçamento do botão até a margem do card*/
+    display: flex;
+    /*para respeitar a linha do meio 'hr' */
+    justify-content: center;
+}
+
+    .main--btn a {
+        max-width: 50%;
+        text-decoration: none;
+        background-color: #42b72a;
+        padding: 15px;
+        color: #fff;
+        border-radius: 5px;
+        font-weight: bold;
+        transition: .3s;
+    }
+
+        .main--btn a:hover {
+            background-color: #399c25;
+        }
+
+footer {
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+
+/*para tela responsiva*/
+
+@media screen and (max-width: 1000px) {
+    .main--container {
+        margin-top: 40px;
+        margin-bottom: 100px;
+        width: 0px;
+        height: 100vh;
+        flex-direction: column;
+    }
+
+    .main--description {
+        margin-top: 30px;
+    }
+
+        .main--description h1 {
+            text-align: center;
+        }
+
+        .main--description p {
+            font-size: 22px;
+            padding: 0px;
+            text-align: center;
+        }
+    /*espaçamento do card até as letras no responsivo*/
+    .main--card {
+        width: 320px;
+        margin-top: 30px;
+    }
+
+    footer {
+        display: none;
+    }
+}
+
+
+/* MODAL CRIAR NOVA CONTA */
+
+.main--cardcadastro {
+    background-color: #fff;
+    border-radius: 7px;
+    box-shadow: 0px 5px 10px #ccc;
+    width: 370px;
+    padding: 15px;
+    text-align: center;
+}
+
+.main--cardcadastro {
+    justify-items: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-size: 16px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    align-items: center;
+}
+
+.logoimg {
+    margin-left: 30%;
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+   
+    
+}
+

@@ -1,0 +1,24 @@
+﻿body {
+    background-color: #F0F8FF;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    /* margin-top: 0px; /* margem superio do menu*/
+    /* margin-bottom: 0px; /*margem inferior do menu*/
+    /*  margin-right: 0px; /*margem direita do menu*/
+    /*   margin-left: 0px; /*margem esquerda do menu*/
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique; /* estilo da letra do menu*/
+    background: linear-gradient(to right, #ffffff, #FFFAFA, #ffffff, #ffffff ); /* cor de fundo do menu*/
+    position: relative;
+}
+
+.center {
+    text-align: center; /*Alinhamento: centro*/
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique; /* estilo da letra*/
+
+    margin-left: 10px; /*margem esquerda do menu*/
+}

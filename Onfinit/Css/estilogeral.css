@@ -1,0 +1,75 @@
+﻿body {
+    background-color: #F0F8FF;
+}
+
+.botaoatv {
+    display: flex;
+    justify-content: center;
+}
+
+.meio {
+    display: flex;
+    justify-content: center;
+}
+
+.main--container {
+    border: 0px solid rgb( 0, 0, 0);
+    max-width: 1000px;
+    /* height: calc(100vh);*/
+    padding: /*topo*/
+    0px /*lateral*/
+    0px;
+    display: flex;
+    align-items: center;
+}
+
+.main--atividade {
+    border: 0px solid rgb( 0, 0, 0);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+/* CARD = Onde fica todo o login dentro */
+
+.main--card {
+    background-color: #fff;
+    border-radius: 7px;
+    box-shadow: 0px 5px 10px #ccc;
+    width: 370px;
+    padding: 15px;
+    text-align: center;
+}
+
+    .main--card input {
+        width: 100%;
+        margin-bottom: 8px;
+        font-size: 16px;
+        padding: 15px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        outline: none;
+    }
+
+.gridview {
+    margin-top: 5px; /* margem superio da gridview*/
+    margin-bottom: 10px; /*margem inferior da gridview*/
+    margin-right: auto; /*margem direita da gridview*/
+    margin-left: auto; /*margem esquerda da gridview*/
+
+    font-family: 'Hind Siliguri', sans-serif;
+    font-style: oblique; /* estilo da letra da gridview*/
+    word-spacing: 0px; /* espaçamento da gridview*/
+    text-align: center;
+    width: auto;
+    height: auto;
+    box-shadow: 0 40px 40px 0 #A9A9A9;
+}
+
+h1 {
+    text-align: center; /*Alinhamento: centro*/
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique; /* estilo da letra*/
+    font-size: 40px; /* tamanho da letra*/
+    color: #000000;
+}
